@@ -1,16 +1,70 @@
-## Hi there 👋
+Hi 👋, I'm Vinayak Kokare
 
-<!--
-**vinayakkokare/vinayakkokare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineering & Python Developer
 
-Here are some ideas to get you started:
+Computer Science graduate passionate about backend development, Python applications, databases, and real-world software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💻 Technical Skills
+
+Languages
+- Python
+- Java
+- SQL
+- JavaScript
+
+Frameworks & Technologies
+- Flask
+- REST APIs
+- OpenCV
+- MySQL
+- PostgreSQL
+
+Tools
+- Git & GitHub
+- Linux (Ubuntu)
+- AWS (EC2, S3, IAM)
+
+---
+
+📌 Featured Projects
+
+🔹 AI-based Face Recognition Attendance System
+- Real-time face recognition attendance using Python, Flask, and OpenCV
+- Role-based dashboards for Admin, Teacher, and Student
+- Secure authentication and attendance tracking
+
+🔹 Ration Distribution Management System
+- Java Swing desktop application with MySQL integration
+- CRUD operations using JDBC
+- Stock and allocation management system
+
+🔹 Portfolio Website
+🌐 Live Portfolio:
+https://vinayakkokare.github.io/portfolio/
+
+---
+
+📚 Currently Learning
+- Backend Engineering
+- Advanced Python
+- APIs & Deployment
+- Software Engineering Practices
+
+---
+
+🎯 Career Objective
+Seeking Software Engineering and Python Developer opportunities to build scalable and impactful applications.
+
+---
+
+📫 Connect With Me
+
+- GitHub: https://github.com/vinayakkokare
+- LinkedIn: Add-your-link-here
+- Email: vinayak.kokare.cs@gmail.com
+
+---
+
+⭐ Always learning and building real-world projects.
