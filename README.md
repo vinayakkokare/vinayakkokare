@@ -62,7 +62,6 @@ Seeking Software Engineering and Python Developer opportunities to build scalabl
 📫 Connect With Me
 
 - GitHub: https://github.com/vinayakkokare
-- LinkedIn: Add-your-link-here
 - Email: vinayak.kokare.cs@gmail.com
 
 ---
