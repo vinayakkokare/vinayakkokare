@@ -1,69 +1,39 @@
-Hi 👋, I'm Vinayak Kokare
+<div align="center">
 
-🚀 Software Engineering & Python Developer
+# Vinayak Kokare
 
-Computer Science graduate passionate about backend development, Python applications, databases, and real-world software engineering.
+Entry-Level Software Developer • Computer Science Graduate
+
+Backend Systems • REST APIs • AI Applications
+
+</div>
 
 ---
 
-💻 Technical Skills
+## 👨‍💻 Who I Am
 
-Languages
+I build backend systems...
+
+---
+
+## 🛠 Core Stack
+
 - Python
-- Java
-- SQL
-- JavaScript
-
-Frameworks & Technologies
 - Flask
-- REST APIs
-- OpenCV
-- MySQL
-- PostgreSQL
-
-Tools
-- Git & GitHub
-- Linux (Ubuntu)
-- AWS (EC2, S3, IAM)
+- SQL
 
 ---
 
-📌 Featured Projects
+## 🚀 Projects
 
-🔹 AI-based Face Recognition Attendance System
-- Real-time face recognition attendance using Python, Flask, and OpenCV
-- Role-based dashboards for Admin, Teacher, and Student
-- Secure authentication and attendance tracking
+### AI Face Recognition Attendance System
 
-🔹 Ration Distribution Management System
-- Java Swing desktop application with MySQL integration
-- CRUD operations using JDBC
-- Stock and allocation management system
-
-🔹 Portfolio Website
-🌐 Live Portfolio:
-https://vinayakkokare.github.io/portfolio/
+Project details...
 
 ---
 
-📚 Currently Learning
-- Backend Engineering
-- Advanced Python
-- APIs & Deployment
-- Software Engineering Practices
+## 📫 Connect
 
----
-
-🎯 Career Objective
-Seeking Software Engineering and Python Developer opportunities to build scalable and impactful applications.
-
----
-
-📫 Connect With Me
-
-- GitHub: https://github.com/vinayakkokare
-- Email: vinayak.kokare.cs@gmail.com
-
----
-
-⭐ Always learning and building real-world projects.
+- LinkedIn
+- GitHub
+- Portfolio
